@@ -3,7 +3,7 @@
 Giới thiệu :
 
 # công nghệ sử dụng
-Lavarek Franework
+Lavarek Framework
 PHP
 Database: mysql
 
