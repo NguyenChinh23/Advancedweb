@@ -3,7 +3,7 @@
 Giới thiệu :
 
 # công nghệ sử dụng
-Lavarek Framework
+Lavarel Framework
 PHP
 Database: mysql
 
