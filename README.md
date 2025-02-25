@@ -13,7 +13,6 @@ composer create-project --prefer-dist laravel/laravel laravel-project
 -Cài đặt Breeze thông qua Composer
 
 - composer require laravel/breeze --dev
-- Cài đặt view
 - php artisan breeze:install
 
 - npm install
