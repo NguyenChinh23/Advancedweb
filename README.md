@@ -17,3 +17,5 @@ composer create-project --prefer-dist laravel/laravel laravel-project
 
 - npm install
 - npm run dev
+# Sơ đồ chức năng
+![sodo](https://github.com/user-attachments/assets/47113b73-8117-4fa7-9afe-5f09b0f99070)
